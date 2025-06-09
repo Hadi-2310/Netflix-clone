@@ -277,7 +277,7 @@ body {
 }
 .info-batch {
   background: rgba(255, 255, 255, 0.2);
-  background-filter: blur(10px);
+  backdrop-filter: blur(10px);
   padding: 3px, 6px;
   border-radius: 3px;
   font-size: 10px;
